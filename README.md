@@ -1,5 +1,5 @@
 # Hey, I'm Saikat Sen 
-### Senior Backend Engineer · Node.js · NestJS · Laravel · Fintech & Enterprise Systems
+### Senior Backend Engineer · Node.js · NestJS · PostgreSQL  · Laravel · Distributed Systems &  Enterprise Systems
 
 I build **production-grade backend systems** that handle real load, real failure, and real money.
 
