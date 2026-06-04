@@ -20,18 +20,18 @@ I build **production-grade backend systems** that handle real load, real failure
 
 ## 🚀 Pinned Projects
 
-### ⚙️ [Job Queue System](https://github.com/imsaikatsen/job-queue-system)
+### [Distributed Job Platform](https://github.com/imsaikatsen/distributed-job-platform)
+Production-grade distributed job processing system — NestJS, BullMQ, Redis, PostgreSQL, Prometheus, Grafana
+
+###  [Job Queue System](https://github.com/imsaikatsen/job-queue-system)
 Lightweight async job processor built **from scratch** — no BullMQ, no Kafka. Teaches exactly why those tools exist. NestJS · PostgreSQL · Docker · Exponential backoff.  
 📖 [Read the deep-dive on Medium →](https://medium.com/p/377c50ceb5dc)
 
-### 🔁 [Event-Driven Microservices](https://github.com/imsaikatsen/Event-Driven-Microservices)
+###  [Event-Driven Microservices](https://github.com/imsaikatsen/Event-Driven-Microservices)
 NestJS + Redis Pub/Sub architecture with order, payment, and notification services. Built to understand real-world event-driven patterns under concurrent load.
 
-### 🛒 [Grocery Booking System](https://github.com/imsaikatsen/grocery-booking-system)
+###  [Grocery Booking System](https://github.com/imsaikatsen/grocery-booking-system)
 RESTful API with full RBAC, JWT auth, inventory management, and atomic transactional ordering. Node.js · TypeScript · Prisma · PostgreSQL.
-
-### 🎫 [Complaint Management Backend](https://github.com/imsaikatsen/complaint-management-backend)
-Helpdesk API bridging users and admins — ticket submission, tracking, and resolution. Node.js · MySQL.
 
 ---
 
